@@ -1,0 +1,12 @@
+C:\Users\nesto\source\repos\practica12\practica12\bin\Debug\practica12.exe.config
+C:\Users\nesto\source\repos\practica12\practica12\bin\Debug\practica12.exe
+C:\Users\nesto\source\repos\practica12\practica12\bin\Debug\practica12.pdb
+C:\Users\nesto\source\repos\practica12\practica12\obj\Debug\practica12.csprojAssemblyReference.cache
+C:\Users\nesto\source\repos\practica12\practica12\obj\Debug\practica12.exe
+C:\Users\nesto\source\repos\practica12\practica12\obj\Debug\practica12.pdb
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica12\practica12\practica12\bin\Debug\practica12.exe.config
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica12\practica12\practica12\bin\Debug\practica12.exe
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica12\practica12\practica12\bin\Debug\practica12.pdb
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica12\practica12\practica12\obj\Debug\practica12.csprojAssemblyReference.cache
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica12\practica12\practica12\obj\Debug\practica12.exe
+C:\Users\nesto\OneDrive\Escritorio\nose\practicas\tercer periodo\practica12\practica12\practica12\obj\Debug\practica12.pdb
